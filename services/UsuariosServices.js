@@ -12,13 +12,13 @@ function listar(){
     console.table(usuarios);
 }
 
-function listarNomes(){
-    const nomes = usuario => {
-        return nome: usuario.nome,
+// function listarNomes(){
+//     const nomes = usuario => {
+//         return nome: usuario.nome,
         
-    }
-    let format = usuarios.map(nomes)
-}
+//     }
+//     let format = usuarios.map(nomes)
+// }
 console.table(format);
 
 function salvar(arrayDeUsuarios){
