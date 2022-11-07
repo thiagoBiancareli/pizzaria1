@@ -14,12 +14,12 @@ function listar(){
 
 // function listarNomes(){
 //     const nomes = usuario => {
-//         return nome: usuario.nome,
+//         return nome: usuario.nome,git 
         
 //     }
 //     let format = usuarios.map(nomes)
 // }
-console.table(format);
+// console.table(format);
 
 function salvar(arrayDeUsuarios){
     // Seu código aqui
@@ -46,6 +46,10 @@ salvar(usuarios);
 
 function detalhar(idUsuario){
 // Seu código aqui
+
+
+
+
 }
 
 function remover(idDoUsuarioParaRemover){
